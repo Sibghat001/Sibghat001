@@ -11,7 +11,7 @@ Turning ideas into scalable digital products 🚀
 ### 🧑‍💻 About Me  
 ✅ Full-Stack MERN Developer  
 ✅ React Native App Developer  
-✅ WordPress | Framer 
+✅ WordPress 
 ✅ Firebase / MongoDB / REST APIs  
 ✅ Modern UI/UX enthusiast  
 
@@ -63,9 +63,9 @@ Turning ideas into scalable digital products 🚀
 ---
 
 ### 💬 Socials  
-📧 Email: your-email@example.com  
+📧 Email: sibghat_shaikh93@live.com  
 🌐 Portfolio: (Coming Soon)  
-📍 Karachi, Pakistan  
+ 
 
 ---
 
