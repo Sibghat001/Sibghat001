@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#4D9FFF">Sibghat Shaikh</span></h1>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=4DB8FF&center=true&vCenter=true&width=600&lines=👋+Hey%2C+I'm+Sibghat+Shaikh;Full-Stack+MERN+Developer;React+Native+App+Developer;WordPress+%26+CMS+Expert" />
+</p>
 
 <p align="center">
 Full-Stack Developer | Mobile App Developer | CMS Expert
