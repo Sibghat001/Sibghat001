@@ -20,6 +20,15 @@ Turning ideas into scalable digital products 🚀
 
 ---
 
+
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/MERN-DEVELOPER-green?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge"></a>
+<a href="#"><img src="https://img.shields.io/badge/CMS%20Expert-WordPress/Webflow-black?style=for-the-badge"></a>
+</p>
+
+
+
 ### 🚀 Skills
 
 #### 💻 Languages & Frameworks
