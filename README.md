@@ -10,8 +10,8 @@ Turning ideas into scalable digital products 🚀
 
 ### 🧑‍💻 About Me  
 ✅ Full-Stack MERN Developer  
-✅ Flutter & React Native App Developer  
-✅ WordPress | Webflow | Framer | GoHighLevel  
+✅ React Native App Developer  
+✅ WordPress | Framer 
 ✅ Firebase / MongoDB / REST APIs  
 ✅ Modern UI/UX enthusiast  
 
@@ -32,7 +32,7 @@ Turning ideas into scalable digital products 🚀
 ### 🚀 Skills
 
 #### 💻 Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongo,firebase,flutter,dart,html,css,tailwind,bootstrap,wordpress" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongo,firebase,html,css,tailwind,bootstrap,wordpress" />
 
 #### ⚙️ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux,postman" />
