@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm <span style="color:#4D9FFF">Sibghat Shaikh</span></h1>
 
-<!--
-**Sibghat001/Sibghat001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Full-Stack Developer | Mobile App Developer | CMS Expert
+<br/>
+Turning ideas into scalable digital products 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me  
+✅ Full-Stack MERN Developer  
+✅ Flutter & React Native App Developer  
+✅ WordPress | Webflow | Framer | GoHighLevel  
+✅ Firebase / MongoDB / REST APIs  
+✅ Modern UI/UX enthusiast  
+
+💼 I build modern business websites, SaaS dashboards & mobile apps  
+⚡ Love automation, clean UI, fast performance  
+
+---
+
+### 🚀 Skills
+
+#### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,express,mongo,firebase,flutter,dart,html,css,tailwind,bootstrap,wordpress" />
+
+#### ⚙️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux,postman" />
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sibghat001&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibghat001&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🎖️ GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Sibghat001&theme=onedark&no-frame=true&margin-w=5" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibghat001&theme=tokyonight" />
+</p>
+
+---
+
+### 💬 Socials  
+📧 Email: your-email@example.com  
+🌐 Portfolio: (Coming Soon)  
+📍 Karachi, Pakistan  
+
+---
+
+> ⭐ **Follow me for Projects & Open-Source Work**
