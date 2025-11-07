@@ -66,7 +66,7 @@ Turning ideas into scalable digital products 🚀
 
 ### 💬 Socials  
 📧 Email: sibghat_shaikh93@live.com  
-🌐 Portfolio: (Coming Soon)  
+🌐 Portfolio: (https://sibghatshaikh.vercel.app)  
  
 
 ---
